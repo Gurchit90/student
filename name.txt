@@ -1,1 +1,1 @@
-print("my name is gurchit singh.I live in india);
+My name is gurchit singh.I live in india.
