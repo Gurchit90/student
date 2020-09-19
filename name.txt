@@ -1,5 +1,1 @@
 print("my name is gurchit singh.I live in india);
-
-
-
-thank you.
